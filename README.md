@@ -4,8 +4,13 @@ This project involves building a Convolutional Neural Network (CNN) to classify 
 
 
 #Deployment 
+
 It consists of the code (flask) and HTML (frontend) for project deployment on any cloud platform (AWS,GCP).
+
 FILES:
+
 cnn2.keras : Trained Model on Audios 
+
 labelencoder.pkl :Label Encoder
-flask_model.py : Flas API
+
+flask_model.py : Flask API
